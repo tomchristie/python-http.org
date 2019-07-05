@@ -5,6 +5,8 @@
    self
    projects
    code-of-conduct
+   security
+
 
 About the Working Group
 =======================
@@ -19,6 +21,7 @@ within HTTP specifications we are risking grave fragmentation and confusion amon
 Without funding and contributors we risk many projects becoming unmaintained and existing
 maintainers being burned out. Without a code of conduct and enforcement we risk toxic actors
 creating an environment where all contributors are not welcome.
+
 
 Key Milestones
 --------------
@@ -56,3 +59,11 @@ The Python HTTP Working Group should endeavor to accomplish the following things
     This includes helping people outside the Working Group author and review PEPs.
 
  .. _sans-I/O: https://sans-io.readthedocs.io/
+
+
+Membership
+----------
+
+See the GitHub organization for a `list of all members`_.
+
+ .. _list of all members: https://github.com/orgs/python-http/people
