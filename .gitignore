@@ -1,0 +1,4 @@
+build/
+firebase-debug.log
+venv/
+.firebase/

@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build/html",
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "requirements.txt",
+      "source/**",
+      "venv/**",
+      ".gitignore",
+      ".travis.yml",
+      "build.sh"
+    ]
+  }
+}
