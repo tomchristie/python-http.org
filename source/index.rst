@@ -52,7 +52,7 @@ The Python HTTP Working Group should endeavor to accomplish the following things
 5. **Seek sources of funding for member projects**
 
     This can come in the form of grant proposal writings towards the PSF and other grant making
-    organizations as well as managing sponsorships from organizations such as Tidelift.
+    organizations, as well as managing project sponsorships.
 
 6. **Author PEPs related to the Python HTTP ecosystem**
 
